@@ -17,7 +17,7 @@ To get started with this project, clone the repository and install the necessary
 
 ```
 git clone https://github.com/denizinec/react-weather-app.git
-cd weather-app
+cd react-weather-app
 npm install
 ```
 
